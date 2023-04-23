@@ -1,5 +1,5 @@
 Name=ExampleMod
 Author=Elenai
 Message=This is a custom message!
-Links=https://raw.githubusercontent.com/Roman-Pretty/Example-Mod/master/ExampleMod.dll
+Links=https://raw.githubusercontent.com/Roman-Pretty/Example-Mod/master/ExampleMod.dll,https://raw.githubusercontent.com/Roman-Pretty/Example-Mod/master/ExampleMod.cs
 LatestVersion=https://raw.githubusercontent.com/Roman-Pretty/Example-Mod/master/version
